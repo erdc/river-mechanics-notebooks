@@ -12,7 +12,8 @@ dependencies:
   - ipyleaflet
   - ipympl
   - pythreejs
-  - beakerx
   - bqplot
   - voila
- 
+  - gdal
+  - laspy
+  - owslib 
