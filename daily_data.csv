@@ -1,0 +1,19 @@
+# This automated data download from the USGS sediment portal have not received director's approval and as such are provisional and are subject to revision. The data are released on the conditions that neither the USGS nor the United States Government may be held liable for any damages resulting from its use.
+#
+#
+# Field name  Field description  Units
+# agency_cd  Data reporting agency    
+# site_no  USGS site identifier    
+# datetime  Date/time of sample collection    
+"# DAILY_FLOW  Discharge, mean daily, in cubic feet per second"
+"# DAILY_FLOW_QUAL  daily flow data qualifier  ""A"" indicates data are approved for publication; ""P"" indicates data are provisional and subject to revision"
+"# DAILY_SSC  Suspended-sediment concentration, mean daily, in milligrams per liter"
+"# DAILY_SSC_QUAL  Suspended-sediment concentration data qualifier  ""A"" indicates data are approved for publication; ""P"" indicates data are provisional and subject to revision"
+"# DAILY_SSL  Suspended-sediment load, mean daily, in tons per day"
+"# DAILY_SSL_QUAL  Suspended-sediment load data qualifier  ""A"" indicates data are approved for publication; ""P"" indicates data are provisional and subject to revision"
+#
+# Missing data (empty values in a column) indicates that this data field was not present within the USGS National Water Information System
+#
+agency_cd,site_no,datetime,DAILY_FLOW,DAILY_FLOW_QUAL,DAILY_SSC,DAILY_SSC_QUAL,DAILY_SSL,DAILY_SSL_QUAL
+,,
+
