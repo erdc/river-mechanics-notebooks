@@ -171,6 +171,7 @@ dependencies:
   - tiledb=1.7.0=hcde45ca_2
   - tk=8.6.10=hed695b0_0
   - tornado=6.0.3=py38h516909a_0
+  - tqdm
   - traitlets=4.3.3=py38_0
   - traittypes=0.2.1=py_1
   - tzcode=2019a=h516909a_1002
